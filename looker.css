@@ -1,0 +1,6 @@
+table.reportTable th {
+    color: red;
+}
+table th{
+    color: red !important;
+}
